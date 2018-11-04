@@ -2,7 +2,8 @@
 Consists of machine learning programs in python.
 
 Contents : 
-1. File name : simple_machine_learning_pipeline
+1. File name : simple_machine_learning_pipeline.ipynb
+
 Consists of a simple machine learning pipeline program. 
 Language : Python 3.
 Tranformer : Minmax Scaler
