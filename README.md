@@ -9,6 +9,8 @@ Tranformer : Minmax Scaler
 Estimator : Logistic Regression.
 
 What is a machine learning pipeline?
+
+
 •	This process of tying together different levels of the ML process is known as a pipeline. 
 •	In machine learning, a pipeline is created to allow data flow from its raw format to some useful information.
 •	The two important terms used are the transformers and the estimators. Transformers are the stages in the pipeline, that transform the
